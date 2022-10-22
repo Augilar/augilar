@@ -1,5 +1,5 @@
 
-I am a Btech 3rd yearite studying Mechanical Engineering at IIT Guwahati. Nothing special about me, just a casual guy who sees a lot of anime and reads a lot of webtoons. Trying my best to review all my bookmarks.
+I am a Btech 4th yearite studying Mechanical Engineering at IIT Guwahati. Nothing special about me, just a casual guy who sees a lot of anime and reads a lot of webtoons. Trying my best to review all my bookmarks.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=augilar&show_icons=true&theme=vision-friendly-dark)
 
